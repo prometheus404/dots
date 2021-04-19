@@ -1,0 +1,11 @@
+{
+	"coc.preferences.formatOnSaveFiletypes": ["scala","java", "ocaml"],
+	"languageserver": {
+		"ocaml-lsp": {
+			"command": "opam",
+			"args": ["config", "exec", "--", "ocamllsp"],
+			"filetypes": ["ocaml", "reason"]
+		}
+  },
+  "clangd.path": "/home/prometheus/.config/coc/extensions/coc-clangd-data/install/11.0.0/clangd_11.0.0/bin/clangd"
+}

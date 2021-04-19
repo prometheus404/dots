@@ -1,0 +1,13 @@
+2021/04/18-11:52:37.851 ce3 Reusing MANIFEST /home/prometheus/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_monkeytype.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/04/18-11:52:37.851 ce3 Recovering log #17
+2021/04/18-11:52:37.858 ce3 Reusing old log /home/prometheus/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_monkeytype.com_0.indexeddb.leveldb/000017.log 
+2021/04/18-11:52:38.276 ce7 Level-0 table #21: started
+2021/04/18-11:52:38.425 ce7 Level-0 table #21: 3016 bytes OK
+2021/04/18-11:52:38.639 ce7 Delete type=0 #17
+2021/04/18-11:52:38.640 ce7 Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at '\x00\x06\x00\x00\x05' @ 283 : 1
+2021/04/18-11:52:38.640 ce7 Compacting 1@0 + 1@1 files
+2021/04/18-11:52:38.677 ce7 Generated table #22@0: 29 keys, 1409 bytes
+2021/04/18-11:52:38.677 ce7 Compacted 1@0 + 1@1 files => 1409 bytes
+2021/04/18-11:52:38.757 ce7 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/04/18-11:52:38.757 ce7 Delete type=2 #21
+2021/04/18-11:52:38.758 ce7 Manual compaction at level-0 from '\x00\x06\x00\x00\x05' @ 283 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)

@@ -1,0 +1,7 @@
+# This file is created by ibus-daemon, please do not modify it.
+# This file allows processes on the machine to find the
+# ibus session bus with the below address.
+# If the IBUS_ADDRESS environment variable is set, it will
+# be used rather than this file.
+IBUS_ADDRESS=unix:abstract=/home/prometheus/.cache/ibus/dbus-OogJTF5V,guid=4cca2c5dde5bfa273703f38a603f5714
+IBUS_DAEMON_PID=2329

@@ -1,0 +1,8 @@
+2021/04/06-23:53:52.318 1bf6c Reusing MANIFEST /home/prometheus/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.primevideo.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/04/06-23:53:52.318 1bf6c Recovering log #19
+2021/04/06-23:53:52.318 1bf6c Reusing old log /home/prometheus/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.primevideo.com_0.indexeddb.leveldb/000019.log 
+2021/04/06-23:54:10.651 1bf6c Level-0 table #24: started
+2021/04/06-23:54:10.651 1bf6c Level-0 table #24: 0 bytes OK
+2021/04/06-23:54:10.705 1bf6c Delete type=0 #19
+2021/04/06-23:54:10.706 1bf6c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/04/06-23:54:10.706 1bf6c Manual compaction at level-1 from (begin) .. (end); will stop at (end)

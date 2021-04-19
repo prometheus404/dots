@@ -1,0 +1,30 @@
+2021/04/17-16:30:08.082 3a81 Reusing MANIFEST /home/prometheus/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/04/17-16:30:08.083 3a81 Recovering log #414
+2021/04/17-16:30:08.664 3a81 Reusing old log /home/prometheus/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/000414.log 
+2021/04/17-16:33:44.149 3a51 Level-0 table #419: started
+2021/04/17-16:33:44.282 3a51 Level-0 table #419: 2471295 bytes OK
+2021/04/17-16:33:44.326 3a51 Delete type=0 #414
+2021/04/17-16:36:56.139 3a51 Compacting 1@1 + 1@2 files
+2021/04/17-16:36:56.186 3a51 Generated table #420@1: 68 keys, 29329 bytes
+2021/04/17-16:36:56.186 3a51 Compacted 1@1 + 1@2 files => 29329 bytes
+2021/04/17-16:36:56.227 3a51 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/04/17-16:36:56.227 3a51 Delete type=2 #416
+2021/04/17-16:36:56.227 3a51 Delete type=2 #419
+2021/04/17-17:19:11.809 3a7d Level-0 table #422: started
+2021/04/17-17:19:11.943 3a7d Level-0 table #422: 2341507 bytes OK
+2021/04/17-17:19:11.986 3a7d Delete type=0 #418
+2021/04/17-17:22:39.687 3a7d Compacting 1@1 + 1@2 files
+2021/04/17-17:22:39.748 3a7d Generated table #423@1: 68 keys, 29561 bytes
+2021/04/17-17:22:39.748 3a7d Compacted 1@1 + 1@2 files => 29561 bytes
+2021/04/17-17:22:39.789 3a7d compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/04/17-17:22:39.789 3a7d Delete type=2 #420
+2021/04/17-17:22:39.789 3a7d Delete type=2 #422
+2021/04/17-18:05:00.911 4d8f Level-0 table #425: started
+2021/04/17-18:05:01.020 4d8f Level-0 table #425: 2268853 bytes OK
+2021/04/17-18:05:01.064 4d8f Delete type=0 #421
+2021/04/17-18:08:48.914 54f2 Compacting 1@1 + 1@2 files
+2021/04/17-18:08:48.952 54f2 Generated table #426@1: 68 keys, 28924 bytes
+2021/04/17-18:08:48.952 54f2 Compacted 1@1 + 1@2 files => 28924 bytes
+2021/04/17-18:08:48.992 54f2 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/04/17-18:08:48.992 54f2 Delete type=2 #423
+2021/04/17-18:08:48.992 54f2 Delete type=2 #425

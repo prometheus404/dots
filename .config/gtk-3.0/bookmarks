@@ -1,0 +1,8 @@
+file:///home/prometheus/Documents
+file:///home/prometheus/Music
+file:///home/prometheus/Pictures
+file:///home/prometheus/Videos
+file:///home/prometheus/Downloads
+smb://192.168.1.100/mediaprova/ mediaprova on 192.168.1.100
+smb://192.168.1.100/media/ media on 192.168.1.100
+smb://192.168.1.100/data/ data on 192.168.1.100

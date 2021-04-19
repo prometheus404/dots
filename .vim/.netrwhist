@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =9
+let g:netrw_dirhist_9='/home/prometheus/.config/polybar/scripts'
+let g:netrw_dirhist_8='/home/prometheus/Documents/Github/vacanze'
+let g:netrw_dirhist_7='/home/prometheus/Documents/Github/typer'
+let g:netrw_dirhist_6='/home/prometheus/Documents/Github/superhero-datascience'
+let g:netrw_dirhist_5='/home/prometheus/Documents/Github/smart_chessboard'
+let g:netrw_dirhist_4='/home/prometheus/.config/sxhkd'
+let g:netrw_dirhist_3='/home/prometheus/.config/bspwm'
+let g:netrw_dirhist_2='/home/prometheus/.config/polybar'
+let g:netrw_dirhist_1='/home/prometheus/.config/polybar/scripts'

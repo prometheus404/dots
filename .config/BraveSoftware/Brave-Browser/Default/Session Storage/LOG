@@ -1,0 +1,15 @@
+2021/04/18-11:52:22.408 3 Reusing MANIFEST /home/prometheus/.config/BraveSoftware/Brave-Browser/Default/Session Storage/MANIFEST-000001
+2021/04/18-11:52:22.521 3 Recovering log #347
+2021/04/18-11:52:22.815 3 Reusing old log /home/prometheus/.config/BraveSoftware/Brave-Browser/Default/Session Storage/000347.log 
+2021/04/18-12:56:45.852 1e Level-0 table #351: started
+2021/04/18-12:56:45.902 1e Level-0 table #351: 33130 bytes OK
+2021/04/18-12:56:46.086 1e Delete type=0 #347
+2021/04/18-12:56:46.086 1e Compacting 4@0 + 1@1 files
+2021/04/18-12:56:46.568 1e Generated table #352@0: 1015 keys, 104278 bytes
+2021/04/18-12:56:46.569 1e Compacted 4@0 + 1@1 files => 104278 bytes
+2021/04/18-12:56:46.841 1e compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/04/18-12:56:46.843 1e Delete type=2 #341
+2021/04/18-12:56:46.844 1e Delete type=2 #351
+2021/04/18-12:56:46.844 1e Delete type=2 #348
+2021/04/18-12:56:46.844 1e Delete type=2 #346
+2021/04/18-12:56:46.844 1e Delete type=2 #343

@@ -1,0 +1,15 @@
+2021/04/13-10:24:14.267 176b Reusing MANIFEST /home/prometheus/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_tabs.ultimate-guitar.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/04/13-10:24:14.267 176b Recovering log #55
+2021/04/13-10:24:14.267 176b Reusing old log /home/prometheus/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_tabs.ultimate-guitar.com_0.indexeddb.leveldb/000055.log 
+2021/04/13-10:25:05.093 176a Level-0 table #60: started
+2021/04/13-10:25:05.132 176a Level-0 table #60: 18055 bytes OK
+2021/04/13-10:25:05.173 176a Delete type=0 #55
+2021/04/13-10:25:05.173 176a Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/04/13-10:25:05.174 176a Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01 \x03\x00\xd0\xfaK\xa5\x8cwB\x00\x01Y\x00u\x00g\x00-\x00s\x00t\x00a\x00t\x00i\x00c\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00t\x00a\x00b\x00s\x00.\x00u\x00l\x00t\x00i\x00m\x00a\x00t\x00e\x00-\x00g\x00u\x00i\x00t\x00a\x00r\x00.\x00c\x00o\x00m\x00/\x00s\x00t\x00a\x00t\x00i\x00c\x00/\x00p\x00u\x00b\x00l\x00i\x00c\x00/\x00i\x00m\x00g\x00/\x00p\x00r\x00o\x00d\x00u\x00c\x00t\x00_\x00i\x00c\x00o\x00n\x00s\x00/\x00u\x00g\x00/\x00f\x00a\x00v\x00i\x00c\x00o\x00n\x00.\x00i\x00c\x00o' @ 16110 : 1
+2021/04/13-10:25:05.174 176a Compacting 1@1 + 1@2 files
+2021/04/13-10:25:05.208 176a Generated table #61@1: 116 keys, 10831 bytes
+2021/04/13-10:25:05.208 176a Compacted 1@1 + 1@2 files => 10831 bytes
+2021/04/13-10:25:05.249 176a compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/04/13-10:25:05.249 176a Delete type=2 #60
+2021/04/13-10:25:05.249 176a Delete type=2 #57
+2021/04/13-10:25:05.250 176a Manual compaction at level-1 from '\x00\x01\x01 \x03\x00\xd0\xfaK\xa5\x8cwB\x00\x01Y\x00u\x00g\x00-\x00s\x00t\x00a\x00t\x00i\x00c\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00t\x00a\x00b\x00s\x00.\x00u\x00l\x00t\x00i\x00m\x00a\x00t\x00e\x00-\x00g\x00u\x00i\x00t\x00a\x00r\x00.\x00c\x00o\x00m\x00/\x00s\x00t\x00a\x00t\x00i\x00c\x00/\x00p\x00u\x00b\x00l\x00i\x00c\x00/\x00i\x00m\x00g\x00/\x00p\x00r\x00o\x00d\x00u\x00c\x00t\x00_\x00i\x00c\x00o\x00n\x00s\x00/\x00u\x00g\x00/\x00f\x00a\x00v\x00i\x00c\x00o\x00n\x00.\x00i\x00c\x00o' @ 16110 : 1 .. (end); will stop at (end)

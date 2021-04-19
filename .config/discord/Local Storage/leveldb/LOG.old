@@ -1,0 +1,24 @@
+2021/04/16-21:28:12.622 1e9b Reusing MANIFEST /home/prometheus/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2021/04/16-21:28:12.660 1e9b Recovering log #130
+2021/04/16-21:28:12.702 1e9b Reusing old log /home/prometheus/.config/discord/Local Storage/leveldb/000130.log 
+2021/04/16-21:42:30.754 27a6 Level-0 table #135: started
+2021/04/16-21:42:30.803 27a6 Level-0 table #135: 8582 bytes OK
+2021/04/16-21:42:30.844 27a6 Delete type=0 #130
+2021/04/16-22:27:30.754 27a6 Level-0 table #137: started
+2021/04/16-22:27:30.805 27a6 Level-0 table #137: 8039 bytes OK
+2021/04/16-22:27:30.847 27a6 Delete type=0 #134
+2021/04/16-23:25:25.742 27a6 Level-0 table #139: started
+2021/04/16-23:25:25.793 27a6 Level-0 table #139: 9836 bytes OK
+2021/04/16-23:25:25.834 27a6 Delete type=0 #136
+2021/04/17-00:26:25.743 27a6 Level-0 table #141: started
+2021/04/17-00:26:25.790 27a6 Level-0 table #141: 9617 bytes OK
+2021/04/17-00:26:25.813 27a6 Delete type=0 #138
+2021/04/17-00:26:25.813 27a6 Compacting 4@0 + 1@1 files
+2021/04/17-00:26:25.840 27a6 Generated table #142@0: 81 keys, 12088 bytes
+2021/04/17-00:26:25.840 27a6 Compacted 4@0 + 1@1 files => 12088 bytes
+2021/04/17-00:26:25.863 27a6 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/04/17-00:26:25.863 27a6 Delete type=2 #135
+2021/04/17-00:26:25.863 27a6 Delete type=2 #137
+2021/04/17-00:26:25.863 27a6 Delete type=2 #141
+2021/04/17-00:26:25.863 27a6 Delete type=2 #139
+2021/04/17-00:26:25.863 27a6 Delete type=2 #132

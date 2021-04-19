@@ -1,0 +1,5 @@
+2021/03/22-22:50:29.645 e290 Reusing MANIFEST /home/prometheus/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_beta.docs.qmk.fm_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/22-22:59:35.757 e2b9 Level-0 table #5: started
+2021/03/22-22:59:35.800 e2b9 Level-0 table #5: 1118 bytes OK
+2021/03/22-22:59:35.841 e2b9 Delete type=0 #3
+2021/03/22-22:59:35.841 e2b9 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

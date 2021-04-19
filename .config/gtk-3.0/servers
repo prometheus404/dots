@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="smb://192.168.1.100/media/" added="2021-03-08T10:00:24.489530Z" modified="2021-04-18T10:29:23.836440Z" visited="2021-04-18T10:29:23.836438Z">
+    <title>media on 192.168.1.100</title>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2021-04-18T10:29:23.836439Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="smb://192.168.1.100/data/" added="2021-04-18T10:29:44.548533Z" modified="2021-04-18T10:29:44.548536Z" visited="2021-04-18T10:29:44.548534Z">
+    <title>data on 192.168.1.100</title>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2021-04-18T10:29:44.548534Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="smb://192.168.1.100/mediaprova/" added="2021-04-18T10:30:00.117132Z" modified="2021-04-18T10:30:00.117135Z" visited="2021-04-18T10:30:00.117133Z">
+    <title>mediaprova on 192.168.1.100</title>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2021-04-18T10:30:00.117134Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

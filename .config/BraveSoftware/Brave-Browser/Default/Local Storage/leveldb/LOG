@@ -1,0 +1,6 @@
+2021/04/18-11:52:19.685 3 Reusing MANIFEST /home/prometheus/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
+2021/04/18-11:52:19.688 3 Recovering log #296
+2021/04/18-11:52:19.725 3 Reusing old log /home/prometheus/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000296.log 
+2021/04/18-12:16:26.509 d Level-0 table #301: started
+2021/04/18-12:16:26.549 d Level-0 table #301: 21192 bytes OK
+2021/04/18-12:16:26.599 d Delete type=0 #296

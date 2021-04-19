@@ -1,0 +1,12 @@
+2021/04/18-11:52:27.069 ce3 Reusing MANIFEST /home/prometheus/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/04/18-11:52:27.069 ce3 Recovering log #424
+2021/04/18-11:52:27.141 ce3 Reusing old log /home/prometheus/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/000424.log 
+2021/04/18-12:05:19.005 2008 Level-0 table #429: started
+2021/04/18-12:05:19.134 2008 Level-0 table #429: 2350371 bytes OK
+2021/04/18-12:05:19.185 2008 Delete type=0 #424
+2021/04/18-12:11:43.172 ca9 Compacting 1@1 + 1@2 files
+2021/04/18-12:11:43.281 ca9 Generated table #430@1: 67 keys, 28967 bytes
+2021/04/18-12:11:43.281 ca9 Compacted 1@1 + 1@2 files => 28967 bytes
+2021/04/18-12:11:43.476 ca9 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/04/18-12:11:43.477 ca9 Delete type=2 #429
+2021/04/18-12:11:43.477 ca9 Delete type=2 #426

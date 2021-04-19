@@ -1,0 +1,5 @@
+2021/04/14-09:52:34.918 cb0 Reusing MANIFEST /home/prometheus/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_forums.plex.tv_0.indexeddb.leveldb/MANIFEST-000001
+2021/04/14-09:53:09.570 c7f Level-0 table #5: started
+2021/04/14-09:53:09.655 c7f Level-0 table #5: 5343 bytes OK
+2021/04/14-09:53:09.695 c7f Delete type=0 #3
+2021/04/14-09:53:09.695 c7f Manual compaction at level-0 from (begin) .. (end); will stop at (end)

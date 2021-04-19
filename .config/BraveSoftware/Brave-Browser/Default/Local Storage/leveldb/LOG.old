@@ -1,0 +1,15 @@
+2021/04/17-16:29:59.956 3 Reusing MANIFEST /home/prometheus/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
+2021/04/17-16:29:59.959 3 Recovering log #293
+2021/04/17-16:30:00.082 3 Reusing old log /home/prometheus/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000293.log 
+2021/04/17-17:21:07.421 28 Level-0 table #297: started
+2021/04/17-17:21:07.461 28 Level-0 table #297: 23874 bytes OK
+2021/04/17-17:21:07.511 28 Delete type=0 #293
+2021/04/17-17:21:07.512 28 Compacting 4@0 + 1@1 files
+2021/04/17-17:21:07.662 28 Generated table #298@0: 1099 keys, 961131 bytes
+2021/04/17-17:21:07.662 28 Compacted 4@0 + 1@1 files => 961131 bytes
+2021/04/17-17:21:07.750 28 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/04/17-17:21:07.753 28 Delete type=2 #291
+2021/04/17-17:21:07.753 28 Delete type=2 #288
+2021/04/17-17:21:07.754 28 Delete type=2 #297
+2021/04/17-17:21:07.754 28 Delete type=2 #285
+2021/04/17-17:21:07.754 28 Delete type=2 #294
